@@ -1,0 +1,14 @@
+{
+  "name": "wpbl-data",
+  "version": "1.0.0",
+  "description": "Automated regular season schedule and results pipeline for Women's Pro Baseball League (WPBL)",
+  "type": "module",
+  "main": "scripts/scrapeWPBL.js",
+  "scripts": {
+    "scrape": "node scripts/scrapeWPBL.js",
+    "scrape:force": "node scripts/scrapeWPBL.js --force"
+  },
+  "keywords": ["wpbl", "baseball", "womens-pro-baseball-league", "schedule", "data"],
+  "author": "Dent Earl",
+  "license": "MIT"
+}

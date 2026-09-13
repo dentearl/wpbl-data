@@ -1,0 +1,1232 @@
+[
+  {
+    "gamePk": "2026080104001",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-01T13:00:00-05:00",
+    "officialDate": "2026-08-01",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026080104002",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-01T17:00:00-05:00",
+    "officialDate": "2026-08-01",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026080204003",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-02T13:00:00-05:00",
+    "officialDate": "2026-08-02",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 6,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026080204004",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-02T17:00:00-05:00",
+    "officialDate": "2026-08-02",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 7,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026080404005",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-04T18:00:00-05:00",
+    "officialDate": "2026-08-04",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026080404006",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-04T20:30:00-05:00",
+    "officialDate": "2026-08-04",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 4,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026080704007",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-07T18:00:00-05:00",
+    "officialDate": "2026-08-07",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 4,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026080804008",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-08T16:00:00-05:00",
+    "officialDate": "2026-08-08",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 8,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026080904009",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-09T13:00:00-05:00",
+    "officialDate": "2026-08-09",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026080904010",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-09T17:00:00-05:00",
+    "officialDate": "2026-08-09",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 6,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026081104011",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-11T18:00:00-05:00",
+    "officialDate": "2026-08-11",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 7,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026081204012",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-12T18:00:00-05:00",
+    "officialDate": "2026-08-12",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026081404013",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-14T18:00:00-05:00",
+    "officialDate": "2026-08-14",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 6,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026081504014",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-15T16:00:00-05:00",
+    "officialDate": "2026-08-15",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 5,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026081604015",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-16T13:00:00-05:00",
+    "officialDate": "2026-08-16",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026081604016",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-16T17:00:00-05:00",
+    "officialDate": "2026-08-16",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 8,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026081804017",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-18T18:00:00-05:00",
+    "officialDate": "2026-08-18",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 4,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026081904018",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-19T18:00:00-05:00",
+    "officialDate": "2026-08-19",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082004019",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-20T18:00:00-05:00",
+    "officialDate": "2026-08-20",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 7,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082104020",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-21T18:00:00-05:00",
+    "officialDate": "2026-08-21",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082304021",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-23T13:00:00-05:00",
+    "officialDate": "2026-08-23",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 1,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082304022",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-23T17:00:00-05:00",
+    "officialDate": "2026-08-23",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 4,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082404023",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-24T18:00:00-05:00",
+    "officialDate": "2026-08-24",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 8,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082504024",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-25T18:00:00-05:00",
+    "officialDate": "2026-08-25",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 4,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082704025",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-27T18:00:00-05:00",
+    "officialDate": "2026-08-27",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082804026",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-28T18:00:00-05:00",
+    "officialDate": "2026-08-28",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 1,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 7,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082904027",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-29T13:00:00-05:00",
+    "officialDate": "2026-08-29",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 5,
+        "isWinner": true
+      },
+      "home": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 4,
+        "isWinner": false
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026082904028",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-29T17:00:00-05:00",
+    "officialDate": "2026-08-29",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 3,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026083004029",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-30T13:00:00-05:00",
+    "officialDate": "2026-08-30",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4001,
+          "name": "Boston Hunters",
+          "abbrev": "BOS",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4002,
+          "name": "Los Angeles Queens",
+          "abbrev": "LA",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  },
+  {
+    "gamePk": "2026083004030",
+    "season": 2026,
+    "league": "WPBL",
+    "gameDate": "2026-08-30T16:00:00-05:00",
+    "officialDate": "2026-08-30",
+    "venue": {
+      "id": 4901,
+      "name": "Robin Roberts Stadium",
+      "city": "Springfield, IL"
+    },
+    "status": {
+      "detailedState": "Final",
+      "abstractGameState": "F"
+    },
+    "teams": {
+      "away": {
+        "team": {
+          "id": 4003,
+          "name": "New York Heights",
+          "abbrev": "NY",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 2,
+        "isWinner": false
+      },
+      "home": {
+        "team": {
+          "id": 4004,
+          "name": "San Francisco Firebells",
+          "abbrev": "SF",
+          "league": "WPBL",
+          "division": "WPBL"
+        },
+        "score": 6,
+        "isWinner": true
+      }
+    },
+    "isTie": false
+  }
+]
