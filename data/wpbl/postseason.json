@@ -1,0 +1,166 @@
+{
+  "2026": {
+    "era": "semifinals_championship",
+    "isStarted": true,
+    "isComplete": false,
+    "seeds": {
+      "1": {
+        "id": 4004,
+        "name": "San Francisco Firebells",
+        "shortName": "Firebells"
+      },
+      "2": {
+        "id": 4003,
+        "name": "New York Heights",
+        "shortName": "Heights"
+      },
+      "3": {
+        "id": 4002,
+        "name": "Los Angeles Queens",
+        "shortName": "Queens"
+      },
+      "4": {
+        "id": 4001,
+        "name": "Boston Hunters",
+        "shortName": "Hunters"
+      }
+    },
+    "semifinalTop": {
+      "name": "Series A",
+      "format": "Best of 3",
+      "team1": {
+        "id": 4004,
+        "name": "San Francisco Firebells",
+        "wins": 2,
+        "isWinner": true,
+        "isEliminated": false
+      },
+      "team4": {
+        "id": 4001,
+        "name": "Boston Hunters",
+        "wins": 0,
+        "isWinner": false,
+        "isEliminated": true
+      },
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 4004,
+      "games": [
+        {
+          "game": 1,
+          "date": "2026-09-09",
+          "away": "Boston Hunters",
+          "home": "San Francisco Firebells",
+          "awayScore": 4,
+          "homeScore": 6,
+          "winnerId": 4004
+        },
+        {
+          "game": 2,
+          "date": "2026-09-11",
+          "away": "San Francisco Firebells",
+          "home": "Boston Hunters",
+          "awayScore": 9,
+          "homeScore": 6,
+          "winnerId": 4004
+        }
+      ]
+    },
+    "semifinalBottom": {
+      "name": "Series B",
+      "format": "Best of 3",
+      "team2": {
+        "id": 4003,
+        "name": "New York Heights",
+        "wins": 1,
+        "isWinner": false,
+        "isEliminated": true
+      },
+      "team3": {
+        "id": 4002,
+        "name": "Los Angeles Queens",
+        "wins": 2,
+        "isWinner": true,
+        "isEliminated": false
+      },
+      "isStarted": true,
+      "isComplete": true,
+      "winnerId": 4002,
+      "games": [
+        {
+          "game": 1,
+          "date": "2026-09-10",
+          "away": "Los Angeles Queens",
+          "home": "New York Heights",
+          "awayScore": 10,
+          "homeScore": 3,
+          "winnerId": 4002
+        },
+        {
+          "game": 2,
+          "date": "2026-09-12",
+          "away": "New York Heights",
+          "home": "Los Angeles Queens",
+          "awayScore": 9,
+          "homeScore": 7,
+          "winnerId": 4003
+        },
+        {
+          "game": 3,
+          "date": "2026-09-14",
+          "away": "Los Angeles Queens",
+          "home": "New York Heights",
+          "awayScore": 15,
+          "homeScore": 11,
+          "winnerId": 4002
+        }
+      ]
+    },
+    "championship": {
+      "name": "WPBL Championship",
+      "format": "Best of 5",
+      "teamTop": {
+        "id": 4004,
+        "name": "San Francisco Firebells",
+        "wins": 0,
+        "isWinner": false,
+        "isEliminated": false
+      },
+      "teamBottom": {
+        "id": 4002,
+        "name": "Los Angeles Queens",
+        "wins": 0,
+        "isWinner": false,
+        "isEliminated": false
+      },
+      "championId": null,
+      "winnerId": null,
+      "isStarted": false,
+      "isComplete": false,
+      "games": [
+        {
+          "game": 1,
+          "date": "2026-09-16"
+        },
+        {
+          "game": 2,
+          "date": "2026-09-17"
+        },
+        {
+          "game": 3,
+          "date": "2026-09-19"
+        },
+        {
+          "game": 4,
+          "date": "2026-09-20",
+          "ifNeeded": true
+        },
+        {
+          "game": 5,
+          "date": "2026-09-22",
+          "ifNeeded": true
+        }
+      ]
+    }
+  }
+}
