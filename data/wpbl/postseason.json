@@ -129,7 +129,7 @@
       "teamBottom": {
         "id": 4002,
         "name": "Los Angeles Queens",
-        "wins": 1,
+        "wins": 2,
         "isWinner": false,
         "isEliminated": false
       },
@@ -147,7 +147,10 @@
         },
         {
           "game": 2,
-          "date": "2026-09-17"
+          "date": "2026-09-17",
+          "awayScore": 11,
+          "homeScore": 7,
+          "winnerId": 4002
         },
         {
           "game": 3,
