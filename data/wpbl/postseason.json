@@ -122,7 +122,7 @@
       "teamTop": {
         "id": 4004,
         "name": "San Francisco Firebells",
-        "wins": 1,
+        "wins": 2,
         "isWinner": false,
         "isEliminated": false
       },
@@ -162,7 +162,10 @@
         {
           "game": 4,
           "date": "2026-09-20",
-          "ifNeeded": true
+          "ifNeeded": true,
+          "awayScore": 17,
+          "homeScore": 4,
+          "winnerId": 4004
         },
         {
           "game": 5,
