@@ -2,7 +2,7 @@
   "2026": {
     "era": "semifinals_championship",
     "isStarted": true,
-    "isComplete": false,
+    "isComplete": true,
     "seeds": {
       "1": {
         "id": 4004,
@@ -124,19 +124,19 @@
         "name": "San Francisco Firebells",
         "wins": 2,
         "isWinner": false,
-        "isEliminated": false
+        "isEliminated": true
       },
       "teamBottom": {
         "id": 4002,
         "name": "Los Angeles Queens",
-        "wins": 2,
-        "isWinner": false,
+        "wins": 3,
+        "isWinner": true,
         "isEliminated": false
       },
-      "championId": null,
-      "winnerId": null,
+      "championId": 4002,
+      "winnerId": 4002,
       "isStarted": true,
-      "isComplete": false,
+      "isComplete": true,
       "games": [
         {
           "game": 1,
@@ -170,7 +170,10 @@
         {
           "game": 5,
           "date": "2026-09-22",
-          "ifNeeded": true
+          "ifNeeded": true,
+          "awayScore": 2,
+          "homeScore": 0,
+          "winnerId": 4002
         }
       ]
     }
