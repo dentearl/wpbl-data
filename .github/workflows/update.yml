@@ -1,9 +1,10 @@
 name: Update WPBL Schedule Data
 
 on:
-  schedule:
-    # 04:30 UTC daily = 23:30 CDT (nightly after games finish in Springfield, IL)
-    - cron: '30 4 * * *'
+  # Automated daily schedule disabled for off-season (2026 playoffs concluded).
+  # schedule:
+  #   # 04:30 UTC daily = 23:30 CDT (nightly after games finish in Springfield, IL)
+  #   - cron: '30 4 * * *'
   workflow_dispatch:
 
 permissions:
